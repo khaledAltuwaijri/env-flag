@@ -53,6 +53,7 @@ Pull requests welcome!
 Support
 -------
 
+Python 3 supported.
 If you are having issues, please let us know.
 
 
